@@ -1,8 +1,8 @@
 {
-  "latest": 5,
-  "latestName": "1.4",
-  "minimum": 5,
-  "apk": "https://raw.githubusercontent.com/Plif1/plifyt-updates/main/apk/Plif-5.apk",
-  "sha256": "fae4418d091b58cf23350b1f31ddfbc85990df15b64dfe7a69a6185e2d20bef6",
+  "latest": 6,
+  "latestName": "1.5",
+  "minimum": 6,
+  "apk": "https://raw.githubusercontent.com/Plif1/plifyt-updates/main/apk/Plif-6.apk",
+  "sha256": "69d50b30ea255ae496389cc6b258ec947a45d993aa0c5e396e3b47b99db0d4eb",
   "notes": ""
 }
