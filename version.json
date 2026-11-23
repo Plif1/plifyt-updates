@@ -1,8 +1,8 @@
 {
-  "latest": 18,
-  "latestName": "2.7",
-  "minimum": 18,
-  "apk": "https://raw.githubusercontent.com/Plif1/plifyt-updates/main/apk/Plif-18.apk",
-  "sha256": "117bbd7d7083c2433119b6af331e36ee6953e13d5bb59b50696f0add0eb5e44d",
+  "latest": 19,
+  "latestName": "2.8",
+  "minimum": 19,
+  "apk": "https://plif-stats.plif-stats.workers.dev/apk/19?u=1",
+  "sha256": "22a5f01629661297d633dad80bd3af2ef71124a41dacc08b2bce24d9775fa15d",
   "notes": ""
 }
