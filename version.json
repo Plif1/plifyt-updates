@@ -1,8 +1,8 @@
 {
-  "latest": 19,
-  "latestName": "2.8",
-  "minimum": 19,
-  "apk": "https://plif-stats.plif-stats.workers.dev/apk/19?u=1",
-  "sha256": "22a5f01629661297d633dad80bd3af2ef71124a41dacc08b2bce24d9775fa15d",
+  "latest": 20,
+  "latestName": "2.9",
+  "minimum": 20,
+  "apk": "https://plif-stats.plif-stats.workers.dev/apk/20?u=1",
+  "sha256": "306c930f798261083509676d2a3588b10c00f4ac88afcc08af24199b41c0f230",
   "notes": ""
 }
